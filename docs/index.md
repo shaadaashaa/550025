@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 进入栏目
-      link: /column/tech/1
+      link: /2026/怪物文化
     - theme: alt
       text: 关于栏目
       link: /about
